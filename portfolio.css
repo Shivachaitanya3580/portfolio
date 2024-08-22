@@ -1,0 +1,98 @@
+body{
+    background-color:lightgray;
+}
+header{
+    position: fixed;
+    top: 0;
+    background-color: #3795BD;
+    color: white;
+    text-align: center;
+    height: 10vh;
+    position: sticky;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    z-index: 100px;
+   /* margin: 100px;*/
+}
+nav{
+    color: white;
+    text-align:down;
+    padding: 20PX;
+    color: white;
+}
+body{
+    position: relative;
+}
+h1{
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+ margin-left: 100px;
+ margin-right:100px;
+ font-size: larger;
+
+}
+.image{
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+ margin-left: 100px;
+ margin-right:100px;
+ text-align: left;font-size: large;
+}
+img{
+    border-radius: 50%;
+
+
+}
+span{
+    vertical-align: 100px;
+}
+.skills{
+    background-color: white;
+    padding: 20px;
+ margin-left: 100px;
+ margin-right:100px;
+ text-align: left;
+}
+.work{
+    background-color: white;
+    padding: 20px;
+ margin-left: 100px;
+ margin-right:100px;
+ text-align: left;
+   
+}
+.p {
+    width: 300px;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+    text-align: center;
+    display: inline-block
+}
+.contact{
+    background-color: white;
+    padding: 20px;
+ margin-left: 100px;
+ margin-right:100px;
+ text-align: left;
+   }
+footer{
+    background-color: #3795BD;
+    color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;height: 50px;
+    padding: 20px;
+    
+
+}
+#MYSKILLS>table,
+th,
+td {
+    border: 1px solid rgba(193, 191, 191, 0.438);
+    text-align: left;
+}
